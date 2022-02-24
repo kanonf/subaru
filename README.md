@@ -14,4 +14,5 @@
 
 小游戏：吃掉小夏目
 
+https://kanonf.github.io/eichi
 
