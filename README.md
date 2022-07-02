@@ -12,6 +12,6 @@
 
 ## 简介
 
-小游戏：吃掉小夏目
+小游戏：吃掉星星
 
-https://kanonf.github.io/Natsume/
+https://kanonf.github.io/subaru/
