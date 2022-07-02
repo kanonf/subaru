@@ -2,8 +2,8 @@
 <html lang="zh">
 
 <head>
-    <title>吃掉小夏目</title>
-    <meta itemprop="name" content="吃掉小夏目" />
+    <title>吃掉星星</title>
+    <meta itemprop="name" content="吃掉星星" />
     <meta itemprop="description" content="新概念音游" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
@@ -73,7 +73,7 @@
                         <div class="input-group-prepend">
                             <span class="input-group-text" id="basic-addon1">标题</span>
                         </div>
-                        <input type="text" id="title" class="form-control" placeholder="吃掉小夏目">
+                        <input type="text" id="title" class="form-control" placeholder="吃掉星星">
                     </div>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
